@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Sophia!
-- 👀 I’m interested in web and app development, UI/UX design, network security, and digital art
-- 🌱 I’m currently learning security fundamentals and experimenting with new languages
+- 👀 I’m interested in app development and network security
 - 📫 Reach me at sophialiu548@gmail.com
 
 <!---
