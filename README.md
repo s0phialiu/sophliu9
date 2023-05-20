@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sophia!
-- 👀 I’m interested in app development and network security
-- 📫 Reach me at sophialiu548@gmail.com
+- 👀 I’m interested in developing iOS apps and websites
+- 📫 Reach me at sl175@illinois.edu
 
 <!---
 sophliu9/sophliu9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
