@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sophia!
-- 👀 I’m interested in developing iOS apps and websites
+- 👀 I’m interested in web and app development
 - 📫 Reach me at sl175@illinois.edu
 
 <!---
