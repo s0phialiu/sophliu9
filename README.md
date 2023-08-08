@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sophia!
+- 👋 Hi, I’m Sophia! I am studying Computer Science at University of Illinois Urbana-Champaign
 - 👀 I’m passionate about iOS development and cybersecurity education
 - 📫 Reach me at sl175@illinois.edu
 
